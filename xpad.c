@@ -149,7 +149,7 @@ static const struct xpad_device {
 	{ 0x045e, 0x0202, "Microsoft X-Box pad v1 (US)", 0, XTYPE_XBOX },
 	{ 0x045e, 0x0285, "Microsoft X-Box pad (Japan)", 0, XTYPE_XBOX },
 	{ 0x045e, 0x0287, "Microsoft Xbox Controller S", 0, XTYPE_XBOX },
-	{ 0x06ef, 0x02e3, "PDP Wired Controller for Xbox Series X", 0, MAP_DPAD_TO_BUTTONS, XTYPE_XBOXONE }
+	{ 0x0e6f, 0x02e3, "PDP Wired Controller for Xbox Series X", 0, MAP_DPAD_TO_BUTTONS, XTYPE_XBOXONE }
 	{ 0x045e, 0x0288, "Microsoft Xbox Controller S v2", 0, XTYPE_XBOX },
 	{ 0x045e, 0x0289, "Microsoft X-Box pad v2 (US)", 0, XTYPE_XBOX },
 	{ 0x045e, 0x028e, "Microsoft X-Box 360 pad", 0, XTYPE_XBOX360 },
